@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **contato.matthewrib@gmail.com**
+- 📫 How to reach me **contato.matheusrbr11@gmail.com**
 
 - ⚡ Fun fact **I don't like chocolate**
 
