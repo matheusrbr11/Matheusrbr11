@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Ribeiro</h1>
 <h3 align="center">Developer (or trying '-')</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **contato.matheusrbr11@gmail.com**
 
