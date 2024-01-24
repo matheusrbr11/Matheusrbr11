@@ -11,6 +11,7 @@ def SobreMim():
 def Skills():
   linguagens = ["Python", "Java"]
   bibliotecas = ["Tkinter", "PyAutoGUI", "Pandas", "Requests"]
+  frameworks = ["Django"]
 ```
 
 <h3 align="left">Connect with me:</h3>
