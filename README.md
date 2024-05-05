@@ -1,16 +1,16 @@
 ```python
-from Matheusrbr11 import Desenvolvedor
+from Matheusrbr11 import Developer
 
-def SobreMim():
-  nome = "Matheus Ribeiro"
-  area = "Backend"
-  curso = "Análise e Desenvolvimento de Sistemas"
-  local = "Rio de Janeiro"
-  contato = "contato.matheusrbr11@gmail.com"
+def AboutMe():
+  name = "Matheus Ribeiro"
+  expertise = "Backend"
+  major = "Software Analysis and Development"
+  locate = "Rio de Janeiro"
+  email = "contato.matheusrbr11@gmail.com"
 
 def Skills():
-  linguagens = ["Python", "Java"]
-  bibliotecas = ["Tkinter", "PyAutoGUI", "Pandas", "Requests"]
+  languages = ["Python", "Java"]
+  libraries = ["Tkinter", "PyAutoGUI", "Pandas", "Requests"]
   frameworks = ["Django"]
 ```
 
